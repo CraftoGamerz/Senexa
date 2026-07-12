@@ -14,6 +14,9 @@ Many Indian MSMEs face significant productivity bottlenecks due to unexpected ma
 
 **Senexa** democratizes "smart maintenance" with a plug-and-play, budget-conscious alternative. It uses an IoT-cloud-AI pipeline to monitor machine vitals (vibration, temperature, current) and applies ML ensemble models to detect early warning signs of mechanical fatigue.
 
+```text
+https://craftogamerz.github.io/Senexa/
+```
 ## ✨ Key Features
 
 ### 1. Premium Landing Page & Live Console
